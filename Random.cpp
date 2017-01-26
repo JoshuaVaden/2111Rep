@@ -3,6 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 
+// this is a trivial change
 Random::Random()
 {
    randomInit();
